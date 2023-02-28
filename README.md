@@ -78,8 +78,7 @@ By default, the difficulty level for mining blocks is set to 4 leading zeroes in
 
 Limitations
 
-This blockchain implementation is very basic and does not include many of the advanced features and functionalities of real-world blockchain networks. It is intended for educational purposes only and should not be used for production applications.
-
+This blockchain implementation is very basic and does not include many of the advanced features and functionalities.
 References
 
 This implementation was based on various resources and tutorials on blockchain development, including:
